@@ -1,6 +1,6 @@
 # Cowboy Standoff
 
-Cowboy Standoff is a 2D Western gunslinger duel game built with Unity 6. It began as a local two-player prototype and is being developed into a small arcade game for a portfolio and game website.
+Cowboy Standoff is a 2D Western-themed gunslinger duel game built with Unity 6. It began as a local two-player prototype and is being developed into a small arcade game for a portfolio and game website.
 
 ## Features
 
@@ -10,6 +10,7 @@ Cowboy Standoff is a 2D Western gunslinger duel game built with Unity 6. It bega
 - Player selection and independent character colour customization
 - Health, scoring, round countdown, and match timer
 - Six-shot magazines with reloading
+- Hay bale cover and environmental obstacles
 - Western-themed title, match setup, controls, pause, and winner screens
 
 ## Controls
@@ -25,15 +26,21 @@ Use the arrow keys to move, jump, and duck. Press Space or click the mouse to sh
 
 The in-game Controls screen shows the controls for the selected match mode.
 
+## Built With
+
+- Unity 6 (Editor version 6000.0.47f1)
+- C#
+- Unity 2D
+
 ## Open the project
 
-1. Install the Unity Editor version listed in `ProjectSettings/ProjectVersion.txt` (Unity 6.0.47f1).
+1. Install the Unity Editor version listed in `ProjectSettings/ProjectVersion.txt`.
 2. In Unity Hub, choose **Add** and select this project folder.
 3. Open the project and allow Unity to resolve the packages listed in `Packages/manifest.json`.
 
 ## Development status
 
-This is an active personal game-development and portfolio project. Features and release targets may change during development.
+This is an active personal game-development and portfolio project. PC is the primary focus; web and mobile support are planned. Features and release targets may change during development.
 
 ## Author
 
